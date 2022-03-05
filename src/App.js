@@ -76,11 +76,11 @@ export default function App() {
       hexTopColor={() => "#FF0000"}
       hexSideColor={() => "#006ee6"}
       labelResolution={2}
-      hexBinPointsData={COUNTRIES_DATA}
-      hexBinPointWeight="size"
-      hexAltitude={(d) => 0.04}
-      hexBinResolution={4}
-      hexBinMerge={true}
+      // hexBinPointsData={COUNTRIES_DATA}
+      // hexBinPointWeight="size"
+      // hexAltitude={(d) => 0.04}
+      // hexBinResolution={4}
+      // hexBinMerge={true}
       enablePointerInteraction={false}
     />
   );
