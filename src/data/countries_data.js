@@ -5,24 +5,7 @@ export const COUNTRIES_DATA = [
       lng: 53.847818,
       name: "United Arab Emirates"
     },
-    {
-      country: "AO",
-      lat: -11.202692,
-      lng: 17.873887,
-      name: "Angola"
-    },
-    {
-      country: "AR",
-      lat: -38.416097,
-      lng: -63.616672,
-      name: "Argentina"
-    },
-    {
-      country: "AT",
-      lat: 47.516231,
-      lng: 14.550072,
-      name: "Austria"
-    },
+   
     {
       country: "AU",
       lat: -25.274398,
@@ -101,78 +84,7 @@ export const COUNTRIES_DATA = [
       lng: 10.451526,
       name: "Germany"
     },
-    {
-      country: "DK",
-      lat: 56.26392,
-      lng: 9.501785,
-      name: "Denmark"
-    },
-    {
-      country: "DO",
-      lat: 18.735693,
-      lng: -70.162651,
-      name: "Dominican Republic"
-    },
-    {
-      country: "DZ",
-      lat: 28.033886,
-      lng: 1.659626,
-      name: "Algeria"
-    },
-    {
-      country: "EC",
-      lat: -1.831239,
-      lng: -78.183406,
-      name: "Ecuador"
-    },
-    {
-      country: "EG",
-      lat: 26.820553,
-      lng: 30.802498,
-      name: "Egypt"
-    },
-    {
-      country: "ES",
-      lat: 40.463667,
-      lng: -3.74922,
-      name: "Spain"
-    },
-    {
-      country: "ET",
-      lat: 9.145,
-      lng: 40.489673,
-      name: "Ethiopia"
-    },
-    {
-      country: "FI",
-      lat: 61.92411,
-      lng: 25.748151,
-      name: "Finland"
-    },
-    {
-      country: "FR",
-      lat: 46.227638,
-      lng: 2.213749,
-      name: "France"
-    },
-    {
-      country: "GB",
-      lat: 55.378051,
-      lng: -3.435973,
-      name: "United Kingdom"
-    },
-    {
-      country: "GH",
-      lat: 7.946527,
-      lng: -1.023194,
-      name: "Ghana"
-    },
-    {
-      country: "GR",
-      lat: 39.074208,
-      lng: 21.824312,
-      name: "Greece"
-    },
+   
     {
       country: "GT",
       lat: 15.783471,
@@ -335,102 +247,7 @@ export const COUNTRIES_DATA = [
       lng: 19.145136,
       name: "Poland"
     },
-    {
-      country: "PR",
-      lat: 18.220833,
-      lng: -66.590149,
-      name: "Puerto Rico"
-    },
-    {
-      country: "PT",
-      lat: 39.399872,
-      lng: -8.224454,
-      name: "Portugal"
-    },
-    {
-      country: "QA",
-      lat: 25.354826,
-      lng: 51.183884,
-      name: "Qatar"
-    },
-    {
-      country: "RO",
-      lat: 45.943161,
-      lng: 24.96676,
-      name: "Romania"
-    },
-    {
-      country: "RU",
-      lat: 61.52401,
-      lng: 105.318756,
-      name: "Russia"
-    },
-    {
-      country: "SA",
-      lat: 23.885942,
-      lng: 45.079162,
-      name: "Saudi Arabia"
-    },
-    {
-      country: "SE",
-      lat: 60.128161,
-      lng: 18.643501,
-      name: "Sweden"
-    },
-    {
-      country: "SG",
-      lat: 1.352083,
-      lng: 103.819836,
-      name: "Singapore"
-    },
-    {
-      country: "SI",
-      lat: 46.151241,
-      lng: 14.995463,
-      name: "Slovenia"
-    },
-    {
-      country: "SK",
-      lat: 48.669026,
-      lng: 19.699024,
-      name: "Slovakia"
-    },
-    {
-      country: "TH",
-      lat: 15.870032,
-      lng: 100.992541,
-      name: "Thailand"
-    },
-    {
-      country: "TR",
-      lat: 38.963745,
-      lng: 35.243322,
-      name: "Turkey"
-    },
-    {
-      country: "TW",
-      lat: 23.69781,
-      lng: 120.960515,
-      name: "Taiwan"
-    },
-    {
-      country: "TZ",
-      lat: -6.369028,
-      lng: 34.888822,
-      name: "Tanzania"
-    },
-    {
-      country: "UY",
-      lat: -32.522779,
-      lng: -55.765835,
-      name: "Uruguay"
-    },
-    {
-      country: "VN",
-      lat: 14.058324,
-      lng: 108.277199,
-      name: "Vietnam"
-    },
+
     {
       country: "ZA",
       lat: -30.559482,
